@@ -1,10 +1,10 @@
 /*  ---------------------------------------------------
     Template Name: Dreams
     Description: Dreams wedding template
-    Author: Colorib
-    Author URI: https://colorlib.com/
+    Author: Gold Eman
+    Author URI: https://goldeman.tech
     Version: 1.0
-    Created: Colorib
+    Created: Gold Eman
 ---------------------------------------------------------  */
 
 'use strict';
@@ -19,7 +19,7 @@
         $("#preloder").delay(200).fadeOut("slow");
 
         /*------------------
-            Portfolio filter
+            Portfolio filter li code 
         --------------------*/
         $('.portfolio__filter li').on('click', function () {
             $('.portfolio__filter li').removeClass('active');
